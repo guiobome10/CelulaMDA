@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Célula CCPA</string>
+    <string name="action_settings">Settings</string>
+    <string name="cadastro_celula">Cadastro de célula</string>
+    <string name="cadastro_membro">Cadastro de membro</string>
+    <string name="cadastro_meta">Cadastro de meta</string>
+    <string name="cadastro_reuniao">Cadastro de reunião</string>
+    <string name="celula">Célula</string>
+    <string name="meta">Meta</string>
+    <string name="lancamento_meta">Lançamento da Meta</string>
+    <string name="reuniao">Reunião</string>
+    <string name="cadastro_oferta">Cadastro de Oferta</string>
+    <string name="cadastro_frequencia">Cadastro de frequência</string>
+    <string name="cadastro_responsavel_lanche">Responsável lanche</string>
+    <string name="cadastro_responsavel_caixa_oracao">Responsável caixa de oração</string>
+    <string name="data">Data</string>
+    <string name="seleciona_data">Selecione a data</string>
+    <string name="salvar">Salvar</string>
+    <string name="campo">Campo</string>
+    <string name="endereco">Endereço</string>
+    <string name="numero_celula">Número da célula</string>
+    <string name="nome">Nome</string>
+    <string name="seleciona_data_abertura">Selecione a data de abertura</string>
+    <string name="seleciona_data_ultima_multiplicacao">Sel. data ult. multiplicação</string>
+</resources>

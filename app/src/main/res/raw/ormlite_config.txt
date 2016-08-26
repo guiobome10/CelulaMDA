@@ -1,0 +1,38 @@
+#
+# generated on 2016/05/17 11:32:37
+#
+# --table-start--
+dataClass=br.com.jgsi.celulamda.model.Celula
+tableName=celula
+# --table-fields-start--
+# --field-start--
+fieldName=numero
+id=true
+# --field-end--
+# --field-start--
+fieldName=nome
+# --field-end--
+# --field-start--
+fieldName=dataAbertura
+# --field-end--
+# --field-start--
+fieldName=endereco
+# --field-end--
+# --field-start--
+fieldName=diaReuniao
+# --field-end--
+# --field-start--
+fieldName=horarioReuniao
+# --field-end--
+# --field-start--
+fieldName=numeroCelulaMae
+# --field-end--
+# --field-start--
+fieldName=tipoCelula
+# --field-end--
+# --field-start--
+fieldName=dataUltimaMultiplicacao
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################

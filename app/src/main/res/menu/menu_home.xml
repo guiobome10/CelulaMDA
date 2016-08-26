@@ -1,0 +1,42 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+        <item android:id="@+id/cadastro_celula"
+            android:title="@string/cadastro_celula"
+            android:icon="@drawable/celula"
+            app:showAsAction="always" >
+        </item>
+        <item android:id="@+id/cadastro_membro"
+            android:title="@string/cadastro_membro"
+            android:icon="@drawable/membros"
+            app:showAsAction="always" />
+        <item android:id="@+id/meta"
+            android:title="@string/meta"
+            android:icon="@drawable/meta"
+            app:showAsAction="always" >
+            <menu>
+                <item android:id="@+id/cadastro_meta"
+                    android:title="@string/cadastro_meta" />
+                <item android:id="@+id/lancamento_meta"
+                    android:title="@string/lancamento_meta" />
+            </menu>
+        </item>
+    <item android:id="@+id/reuniao"
+        android:title="@string/reuniao"
+        android:icon="@drawable/reuniao"
+        app:showAsAction="always" >
+        <menu>
+            <item android:id="@+id/cadastro_reuniao"
+                android:title="@string/cadastro_reuniao" />
+            <item android:id="@+id/cadastro_ofertas"
+                android:title="@string/cadastro_oferta" />
+            <item android:id="@+id/cadastro_frequencia"
+                android:title="@string/cadastro_frequencia" />
+            <item android:id="@+id/cadastro_responsavel_lanche"
+                android:title="@string/cadastro_responsavel_lanche" />
+            <item android:id="@+id/cadastro_responsavel_caixa_oracao"
+                android:title="@string/cadastro_responsavel_caixa_oracao" />
+        </menu>
+
+    </item>
+</menu>
